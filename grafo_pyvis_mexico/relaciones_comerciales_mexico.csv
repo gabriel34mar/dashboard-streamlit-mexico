@@ -1,0 +1,32 @@
+Origen,Destino,Volumen_Comercial_MDP
+Nuevo León,Coahuila,920
+Nuevo León,Chihuahua,780
+Nuevo León,Jalisco,860
+Nuevo León,Querétaro,740
+Nuevo León,Ciudad de México,980
+Nuevo León,Estado de México,900
+Nuevo León,Guanajuato,700
+Jalisco,Guanajuato,760
+Jalisco,Querétaro,620
+Jalisco,Ciudad de México,930
+Jalisco,Estado de México,810
+Jalisco,Baja California,680
+Ciudad de México,Estado de México,1250
+Ciudad de México,Querétaro,890
+Ciudad de México,Puebla,760
+Ciudad de México,Guanajuato,650
+Ciudad de México,Veracruz,610
+Estado de México,Puebla,720
+Estado de México,Querétaro,700
+Estado de México,Guanajuato,680
+Querétaro,Guanajuato,840
+Querétaro,San Luis Potosí,690
+Querétaro,Puebla,560
+Guanajuato,San Luis Potosí,640
+Guanajuato,Aguascalientes,570
+Chihuahua,Baja California,590
+Chihuahua,Coahuila,620
+Coahuila,San Luis Potosí,510
+Puebla,Veracruz,530
+Baja California,Sonora,560
+Jalisco,Sonora,430
